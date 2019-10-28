@@ -7,6 +7,7 @@ Elasticsearch cluster status and health check  are collected by Zabbix externals
 ## Requirements
 * Zabbix3.2
 * Elasticsearch5.x (recommended 5.4～)
+* jq
 
 
 ## Installation
