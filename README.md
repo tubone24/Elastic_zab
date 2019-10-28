@@ -8,6 +8,7 @@ Elasticsearch cluster status and health check  are collected by Zabbix externals
 * Zabbix3.2
 * Elasticsearch5.x (recommended 5.4～)
 
+
 ## Installation
 1. Set up "2" following user macros in your Elasticsearch nodes to Zabbix Host menus.
  * **{$ESIP}** = The Elasticsearch node IP or DNS name.
